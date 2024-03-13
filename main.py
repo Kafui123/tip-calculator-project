@@ -1,4 +1,4 @@
-print("Welcome to the tip calculator!!")
+
 l = int(input("What was the total bill? $: "))
 
 j = int(input("How many people are splitting the bill?: "))
